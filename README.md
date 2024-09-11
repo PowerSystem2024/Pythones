@@ -6,7 +6,7 @@ Grupo de la corte 2024 "Pythones"
 * Augusto Vernengo
 * Geronimo Rodriguez
 * Valentin Vazquez
-* Luciano Lopez
-* Miguel Ruidiaz
 * Lucca Bonomi Sola
+* Miguel Ruidiaz
 * Lucas Reynoso
+* Luciano Lopez
